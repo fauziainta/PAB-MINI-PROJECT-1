@@ -1,5 +1,5 @@
 # PAB-MINI-PROJECT-1
-## Fauzia Inanta Aurelia/2409114044/ Sistem Informasi (B)
+## Fauzia Inanta Aurelia/ 2409114044/ Sistem Informasi (B)
 
 ## Deskripsi Aplikasi
 Aplikasi Laundry Mobile adalah aplikasi berbasis Flutter untuk membantu pengelolaan data laundry secara terstuktur. Aplikasi ini membantu pengguna untuk mencatat data pelanggan, jenis layanan, berat cucian, dan total harga. Data ditampilkan dalam bentuk daftar sehingga mudah dipantau dan dikelola oleh pengguna.
@@ -102,6 +102,7 @@ lib/
     <img width="518" height="35" alt="image" src="https://github.com/user-attachments/assets/c0f21914-ea21-45df-a4b4-df4f347be3fe" />
 
     kembali dan pengiriman data.
+
     <img width="592" height="24" alt="image" src="https://github.com/user-attachments/assets/e54c472d-131c-420b-95ba-b4ff37617ffe" />
 
 ## Penjelasan Nilai Tambah
